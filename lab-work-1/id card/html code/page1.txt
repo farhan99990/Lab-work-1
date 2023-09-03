@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>page-1</title>
+</head>
+<body>
+        <h1 align="center">XYZ IT Company</h1>
+        <h1 align="center"><img src="Photo2.jpg" alt="employ image" width="10%"></h1>
+        <h3 align="center">Full Name : <br> Muhammed Farhan Sadique Mahi</h3>
+        <h4 align="center">Employee ID : EMP007</h4>
+        <p align="center">Designation : Software Engineer</p>
+        <p align="center">Date of Birth : 24 March, 2002</p>
+        <p align="center">Blood Group :  B+</p>
+
+
+</body>
+</html>
